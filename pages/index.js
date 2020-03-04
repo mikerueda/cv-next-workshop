@@ -1,6 +1,6 @@
 import { useEffect } from 'react'
-import SideBar from '../components/SideBar'
-import Content from '../components/Content'
+import SideBar from 'components/SideBar'
+import Content from 'components/Content'
 import fetch from 'isomorphic-fetch'
 
 const Home = (props) => {
